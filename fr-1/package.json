@@ -1,0 +1,17 @@
+{
+  "name": "rct_lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Olgun Karabulut <olguntube@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "react": "^17.0.2",
+    "slugify": "^1.6.5"
+  }
+}
